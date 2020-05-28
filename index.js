@@ -1,4 +1,6 @@
+#!/usr/bin/env node
 const chalk = require('chalk');
+
 const clear = require('clear');
 const figlet = require('figlet');
 
@@ -62,7 +64,7 @@ const getGithubToken = async () =>{
         return token;
     }
 
-    token = await github.getPersonalAccessToken();
+    token = await github.getPersonalAccesToken();
     return token;
 }
 
