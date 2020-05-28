@@ -5,7 +5,7 @@
 It's a command based utility that helps you to create a Github repo without visiting Github directly from your console.
 
 ## Snapshot
-![GitHub Logo](/imag/ginit-save.png)
+![GitHub Logo](/img/ginit-save.png)
 
 ### What it does ?
 * Creates a Repo for you
